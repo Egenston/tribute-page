@@ -56,5 +56,12 @@
     max-width: 97%;
 }
 #link-text{
-    width: 800px;
+    padding: 0px 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+#tribute-link{
+    font-size: 18px;
+    font-weight: 600;
+    color: cornflowerblue;
 }
